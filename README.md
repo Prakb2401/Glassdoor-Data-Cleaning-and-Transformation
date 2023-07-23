@@ -7,6 +7,12 @@ This project revolves around a dataset acquired from Kaggle, which contains uncl
 ## Collaborators
 - Prakhyath Bagavatula: [Prakb2401](https://github.com/Prakb2401) 
 - Ramnath Gowrishankar: [raamnath025](https://github.com/raamnath025)
+## Technologies Used
+- Python
+- Pandas
+- Numpy
+- Jupyter
+- NLTK
 ## Project Overview
 
 The dataset initially presented several challenges that required addressing to make the data more usable and insightful. We approached these challenges by asking the following guiding questions:
@@ -18,12 +24,7 @@ The dataset initially presented several challenges that required addressing to m
 
 By addressing these questions, we were able to transform the raw dataset into a more structured and insightful format.
 
-## Technologies Used
-- Python
-- Pandas
-- Numpy
-- Jupyter
-- NLTK
+
 ## Project Structure
 
 The final version of this project includes a Jupyter notebook that contains the Python script used to clean and transform the data. The notebook provides a step-by-step walkthrough of the process, detailing how we addressed each of the guiding questions and the methodologies used.

@@ -1,4 +1,4 @@
-# Data Science Job Posting Analysis
+# Glassdoor Data Cleaning and Transformation
 
 This project revolves around a dataset acquired from Kaggle, which contains uncleaned data of job postings for data science positions on Glassdoor. The primary objective of this project is to clean and transform the dataset to facilitate further analysis and visualizations. <br>
 **Github Repository:** https://github.com/Prakb2401/Glassdoor-Data-Cleaning-and-Transformation <br>
